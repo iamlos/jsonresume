@@ -1,0 +1,98 @@
+
+{
+  "Basics": {
+    "name": "Carlos Alvarez",
+    "label": "Project Management, Growth Hacking, Digital Marketing",
+    "phone": "",
+    "website": "http://carloscash.com",
+    "summary": "I work as a project manager produce marketing campaigns in the performance driven direct response space. I manage teams in web development, web design, media buying, and data analytics.   \n\nWhile I enjoy all aspects of the build process, my greatest skill is analyzing data trends to optimize and create actionable steps to bring in the most favorable return on investment.\n\nIn my spare time you can find me digging in open source web projects. I am available for hire and I thrive in a performance based role or partnership.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Singapore",
+      "countryCode": "",
+      "region": "Singapore"
+    },
+    "profiles": [],
+    "email": "alvarez.jeancarlos@gmail.com"
+  },
+  "Work History": [
+    {
+      "company": "Height Marketing",
+      "position": "Executive Project Manager",
+      "website": "http://nutralifebrands.com/",
+      "startDate": "2013-06-01",
+      "summary": "Project Manager and Digital Media Specialist.\n\nAs a project manager I procure of services from a global team of freelancers and consultants for eCommerce development, content creation, web design, media buying, and web development. I manage the entire development lifecyle and all aspects of delivery from conception to launch. \n\nHighlights:\n\nScaled 5 different products in 2015 from concept to launch totally sales of +$8M USD\n\nI've identified and created a marketing strategy to bring consumer awareness to each product and brand.\n\nAnalyzed reports from Google Analytics and created A/B testing to optimize campaigns.",
+      "highlights": []
+    },
+    {
+      "company": "DTCC",
+      "position": "Developer / Data Analyst",
+      "website": "http://www.dtcc.com/",
+      "startDate": "2011-09-01",
+      "summary": "",
+      "highlights": [],
+      "endDate": "2013-06-01"
+    },
+    {
+      "company": "Infosys",
+      "position": "Software Engineering/Project Management",
+      "website": "http://www.infosys.com/",
+      "startDate": "2011-07-01",
+      "summary": "Software Engineering Study Abroad\nKnowledge of System Development Life Cycle (SDLC) Agile and Waterfall methodologies \nRequirements Analysis & Specification\nStructured & Object Oriented Design\nSoftware Testing and Quality Frameworks",
+      "highlights": [],
+      "endDate": "2011-08-01"
+    },
+    {
+      "company": "Main Point Construction",
+      "position": "Business Owner",
+      "startDate": "2002-11-01",
+      "summary": "Supervised and managed over 30 employees\nManaged the business to generate over $800K in 2002, $1.5M in 2003 and over $3M in new construction projects each year from 2004-2007.\n\n\nThe 2007 global real estate market bust forced the close of this business.",
+      "highlights": [],
+      "endDate": "2007-06-01"
+    }
+  ],
+  "Education": [
+    {
+      "institution": "University of South Florida",
+      "area": "Business Administration, Management Information Systems",
+      "studyType": "Bachelor's Degree",
+      "endDate": "2011-05-01"
+    },
+  ],
+  "Skills": [
+    {
+      "name": "Front-end Development",
+    },
+    {
+      "name": "Software Engineering",
+    },
+    {
+      "name": "HTML5",
+    },
+    {
+      "name": "Data Analytics",
+    },
+    {
+      "name": "eCommerce Analytics",
+    },
+    {
+      "name": "Requirements Analysis",
+    },
+    {
+      "name": "CSS",
+    },
+    {
+      "name": "Project Management",
+    },
+    {
+      "name": "SQL",
+    },
+  ],
+  "Fluency": [
+    {
+      "language": "English", "Spanish"
+      "fluency": "Native"
+    },
+  ]
+}
